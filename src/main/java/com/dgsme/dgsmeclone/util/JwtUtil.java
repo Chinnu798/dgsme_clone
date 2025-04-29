@@ -15,7 +15,7 @@ import java.util.function.Function;
 @Component
 public class JwtUtil {
 
-    private final String SECRET_KEY = "Shankarreddy123"; // Change to strong secret key!
+    private final String SECRET_KEY = "Shankarreddytamatam123asdfghjkkloiuytreqwsdfv"; // Change to strong secret key!
 //	private final String SECRET_KEY = Base64.getEncoder().encodeToString("shankarreddytamatamasdfghjklpoiuytrewq143".getBytes());
 
     public String extractUsername(String token) {

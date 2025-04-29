@@ -13,13 +13,13 @@ public class DgsmecloneApplication {
 		
 		
 		
-		
-		 BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
-	        String rawPassword = "shankar123";
-	        String encodedPassword = encoder.encode(rawPassword);
-	        System.out.println("Encoded Password: " + encodedPassword);
-		
-		
+//		
+//		 BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
+//	        String rawPassword = "shankar123";
+//	        String encodedPassword = encoder.encode(rawPassword);
+//	        System.out.println("Encoded Password: " + encodedPassword);
+//		
+//		
 		
 		
 		
